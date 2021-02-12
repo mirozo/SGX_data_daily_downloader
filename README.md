@@ -1,2 +1,3 @@
 # SGX_data_daily_downloader
-Python job to download certain data from SGX daily
+
+Python script to download data from SGX using web scrapping techniques.
